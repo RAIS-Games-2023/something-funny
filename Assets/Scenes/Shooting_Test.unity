@@ -766,3 +766,60 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d323841f0fcbd846a84ed09a9323a2c, type: 3}
+--- !u!1001 &3265795653786857583
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3265795653365351488, guid: 8b1f42d60b953e04aa03c0b3f1a40b74, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265795653365351488, guid: 8b1f42d60b953e04aa03c0b3f1a40b74, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265795653365351488, guid: 8b1f42d60b953e04aa03c0b3f1a40b74, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265795653365351488, guid: 8b1f42d60b953e04aa03c0b3f1a40b74, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -19.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265795653365351488, guid: 8b1f42d60b953e04aa03c0b3f1a40b74, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265795653365351488, guid: 8b1f42d60b953e04aa03c0b3f1a40b74, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265795653365351488, guid: 8b1f42d60b953e04aa03c0b3f1a40b74, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265795653365351488, guid: 8b1f42d60b953e04aa03c0b3f1a40b74, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265795653365351488, guid: 8b1f42d60b953e04aa03c0b3f1a40b74, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265795653365351488, guid: 8b1f42d60b953e04aa03c0b3f1a40b74, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265795653365351488, guid: 8b1f42d60b953e04aa03c0b3f1a40b74, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265795653365351491, guid: 8b1f42d60b953e04aa03c0b3f1a40b74, type: 3}
+      propertyPath: m_Name
+      value: Hitler_Spawner
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8b1f42d60b953e04aa03c0b3f1a40b74, type: 3}
