@@ -7,6 +7,7 @@ TagManager:
   - CinemachineTarget
   - Bullet
   - Hitler
+  - BarbedWire
   layers:
   - Default
   - TransparentFX
